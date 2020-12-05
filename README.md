@@ -1,3 +1,3 @@
 # SDuo.SlowCheetah
 
-[如何在 Visual Studio 中按照发布环境使用不同的配置](https://www.yuque.com/sduo/blog/tkifs9)
+文章 [如何在不同的环境中指定对应的程序配置](https://www.yuque.com/sduo/blog/tkifs9) 的示例代码
